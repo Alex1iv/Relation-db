@@ -1,4 +1,4 @@
 # Ignore files with following extensions:
 
 __pycache__/
-*.py
+credentials.py
