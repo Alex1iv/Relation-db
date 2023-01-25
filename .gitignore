@@ -1,4 +1,5 @@
 # Ignore files with following extensions:
 
 __pycache__/
-credentials.py
+/Pictures/
+credentials.json
